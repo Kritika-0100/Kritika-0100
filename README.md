@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kritika-0100
 - 👀 I’m interested in designing and development
 - 🌱 I’m currently learning computer science engineering 
-- 💞️ I’m looking to collaborate on web development, app development 
+- 💞️ I’m looking to collaborate on web development with AI
   
 
 <!---
