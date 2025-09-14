@@ -12,5 +12,5 @@ BTech CSE | Web Developer | Java & Python Dev
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
 📫 Contact Me:  
-[Email](mailto:kritikasharma51089@gmail.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
+[Email](mailto:kritikasharma51089@gmail.com) | [LinkedIn](https://linkedin.com/in/kritikasharma510)
 
