@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Kritika-0100
-- 👀 I’m interested in designing and development
-- 🌱 I’m currently learning computer science engineering 
-- 💞️ I’m looking to collaborate on web development with AI
-  
+# Hi, I’m Kriti 👋
+BTech CSE | Web Developer | Java & Python Dev  
 
-<!---
-Kritika-0100/Kritika-0100 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+✨ I build projects that are practical, beautiful, and organized.  
+💻 Tech: 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) 
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+📫 Contact: [Email](mailto:kritikasharma51089@gmail.com) | [LinkedIn](https://linkedin.com/in/yourprofile)  
+
+![Kriti's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
