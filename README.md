@@ -1,4 +1,4 @@
-# Hi, I’m Kriti 👋
+# Hi, I’m Kritika 👋
 BTech CSE | Web Developer | Java & Python Dev  
 
 ✨ I build projects that are practical, beautiful, and organized.  
